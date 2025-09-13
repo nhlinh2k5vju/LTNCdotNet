@@ -12,6 +12,5 @@ namespace ConsoleApp1
         {
             Console.WriteLine("File1");
         }
-        private 
     }
 }

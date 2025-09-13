@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class Bai4
     {
+        public static void Run()
+        {
+            Console.WriteLine("File4");
+        }
     }
 }
